@@ -2,6 +2,6 @@
 
 def line(arr)
    if arr.length == 0
-     
+        
    end
 end
