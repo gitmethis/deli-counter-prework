@@ -17,3 +17,6 @@ def line(arr)
 end
 
 
+def take_a_number(line, person)
+   
+end
