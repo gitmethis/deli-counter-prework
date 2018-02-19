@@ -15,3 +15,5 @@ def line(arr)
    str[-1] = ''
    puts str
 end
+
+
