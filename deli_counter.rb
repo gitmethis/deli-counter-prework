@@ -23,3 +23,7 @@ def take_a_number(line, person)
 end
 
 
+def now_serving()
+  
+  
+end
