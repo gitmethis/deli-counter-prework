@@ -12,5 +12,5 @@ def line(arr)
      |name, idx|
      str += "#{(idx+1).to_s}. #{name} "
    }
-   str
+   puts str
 end
