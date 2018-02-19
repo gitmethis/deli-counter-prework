@@ -9,6 +9,7 @@ def line(arr)
    
    arr.each_with_index{
      |name, idx|
-     str += "#{(idx+1).to_s} "
+     str += "#{(idx+1).to_s}. #{name} "
    }
+   str
 end
